@@ -69,7 +69,7 @@ Preferred Scenarios: Stable, well-understood projects. When requirements are sta
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-Software Developer:
+i. Software Developer:
 
 Design and Development: Write, test, and maintain code for software application developments.
 
@@ -79,7 +79,7 @@ Collaboration: Work with other team members to integrate different components of
 
 Code Review: Review peers’ code for quality and adherence to standards.
 
-Quality Assurance (QA) Engineer:
+ii. Quality Assurance (QA) Engineer:
 
 Testing: Design, execute, and automate tests to ensure software quality.
 Defect Identification: Identify, document, and track bugs or issues in the software.
@@ -88,7 +88,7 @@ Verification: Ensure that the software meets the specified requirements.
 
 Process Improvement: Recommend improvements to the development and testing processes.
 
-Project Manager:
+iii. Project Manager:
 
 Planning & Coordination: Define project scope, schedule tasks, and allocate resources.
 
@@ -183,7 +183,7 @@ i.  Engage in regular training and attending professional communities/forums to 
 
 4.	Communication and team collaborations:
  
- Strategy:
+Strategy:
 
 i.	Foster clear and regular communication through establishment of effective communication channels.
 
@@ -192,7 +192,7 @@ ii.	Team Building: Foster a collaborative team culture through regular meetings,
 iii.	Conflict Resolution: Address conflicts promptly and constructively to maintain a positive working environment.
 
 5.	Meeting deadlines without compromising quality:
-6.	
+
 Strategy:Prioritize tasks, set realistic goals, and use agile methodologies to manage workloads and adapt to changes.
 
 6.	Challenge: Balancing project requirements and deadlines can be stressful and may lead to compromised quality.
@@ -209,23 +209,23 @@ iii.	Communication: Regularly update stakeholders and adjust expectations as nee
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
-1. Unit Testing:
+i. Unit Testing:
 
 Focus: Tests individual components or functions in isolation.
 
 Importance: Ensures that each part of the code works correctly on its own, catching bugs early in the development process.
 
-2. Integration Testing:
+ii. Integration Testing:
 
 Focus: Tests the interaction between integrated components or systems.
 
 Importance: Identifies issues in the interfaces and interactions between different modules, ensuring that combined components work together as expected.
 
-3. System Testing:
+iii. System Testing:
 Focus: Tests the complete, integrated system as a whole.
 Importance: Validates the end-to-end functionality of the entire system, ensuring it meets the specified requirements and performs well in the intended environment.
 
-4. Acceptance Testing:
+iv. Acceptance Testing:
 
 Focus: Tests the system from the end-user’s perspective to ensure it meets business requirements and is ready for release.
 
@@ -237,5 +237,36 @@ Importance: Confirms that the software satisfies user needs and business objecti
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
+
+Importance of Prompt Engineering:
+
+i.	Well-crafted prompts significantly improve the accuracy and relevance of AI-generated outputs. By providing clear and specific instructions, users can steer the model towards the desired outcome.
+
+ii.	Effective prompts can streamline the interaction with AI models, saving time and effort. Clear instructions reduce the need for multiple attempts or clarifications.
+
+iii.	Control: Prompt engineering allows users to exert control over the AI’s behavior. By carefully constructing prompts, users can shape the AI’s responses to align with specific requirements or preferences.
+
+iv.	Prompt engineering is crucial for unlocking the full potential of AI models. By experimenting with different prompts, users can discover new and innovative applications for these powerful tools.
+
+v.	Prompt engineering plays a vital role in mitigating biases and ensuring ethical AI outputs. By carefully constructing prompts, users can minimize the risk of generating harmful or misleading content.   
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague Prompt: Tell us about cars.
+
+This prompt is vague as it does not specify anything . It could elicit a wide range of responses, from the history of cars to technical specifications, or even a list of car models.
+
+Improved Prompt: Compare and contrast the electric vehicle market in Japan and Germany in terms of government incentives, consumer preference & adoption and infrastructure development.
+
+This prompt is clear, specific, and concise. It outlines a specific task (compare and contrast), defines the subject matter (electric vehicle market), and specifies the areas of focus (government incentives, consumer adoption, and infrastructure development).
+
+Improved prompts are more effective and preferred as discussed:
+
+Clarity: It clearly states the desired outcome (a comparison).
+Specificity: It defines the specific subjects to be compared (US and China electric vehicle markets).
+
+Conciseness: It directly outlines the key points to be addressed (government incentives, consumer adoption, and infrastructure development).
+
+By providing clear and specific guidelines, the improved prompt increases the likelihood of receiving a relevant and informative response from the AI model.
